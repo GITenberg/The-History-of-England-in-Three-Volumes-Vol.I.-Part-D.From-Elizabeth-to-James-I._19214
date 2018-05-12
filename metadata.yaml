@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1440
     wikipedia: http://en.wikipedia.org/wiki/David_Hume
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19214#The-History-of-England-in-Three-Volumes-Vol.I.-Part-D.From-Elizabeth-to-James-I.
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2006-09-08'
 gutenberg_type: Text
